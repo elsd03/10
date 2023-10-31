@@ -1,0 +1,53 @@
+.container {
+  width: 100%;
+}
+
+.head {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.user {
+  display: flex;
+  justify-content: space-between;
+}
+
+.username {
+  display: flex;
+  flex-direction: column;
+}
+.username p {
+  margin: 0;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+}
+
+i {
+  font-size: 40px;
+}
+
+.des {
+  display: flex;
+}
+
+span {
+  color: gray;
+}
+
+h4 {
+  display: block;
+}
+
+.worker {
+  margin: 10px;
+  border-radius: 10px;
+}
+
+.workers {
+  display: flex;
+  justify-content: space-around;
+}/*# sourceMappingURL=style.css.map */
